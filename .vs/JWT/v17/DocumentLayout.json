@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INTERN\\.Net\\JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\model\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\model\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\context\\authdemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\context\\authdemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|d:\\intern\\.net\\jwt\\jwt\\migrations\\20241229162600_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F156FA-BD9B-474D-B543-ABF3E9B76E53}|JWT\\JWT.csproj|solutionrelative:jwt\\migrations\\20241229162600_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWT\\Services\\AuthService.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWT\\Services\\AuthService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAjwEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:36:19.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "JWT\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Controllers\\TestController.cs",
+              "RelativeToolTip": "JWT\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:43:00.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "JWT\\Model\\Employee.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Model\\Employee.cs",
+              "RelativeToolTip": "JWT\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:55:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Model\\LoginUser.cs",
+              "RelativeDocumentMoniker": "JWT\\Model\\LoginUser.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Model\\LoginUser.cs",
+              "RelativeToolTip": "JWT\\Model\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:31:10.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:28:43.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT\\appsettings.json",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\appsettings.json",
+              "RelativeToolTip": "JWT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T15:58:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Program.cs",
+              "RelativeDocumentMoniker": "JWT\\Program.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Program.cs",
+              "RelativeToolTip": "JWT\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwEEAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:20:45.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWT\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Services\\IAuthService.cs",
+              "RelativeToolTip": "JWT\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:06:18.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthDemoDbContext.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Context\\AuthDemoDbContext.cs",
+              "RelativeDocumentMoniker": "JWT\\Context\\AuthDemoDbContext.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Context\\AuthDemoDbContext.cs",
+              "RelativeToolTip": "JWT\\Context\\AuthDemoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:56:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JWT.http",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\JWT.http",
+              "RelativeDocumentMoniker": "JWT\\JWT.http",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\JWT.http",
+              "RelativeToolTip": "JWT\\JWT.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-29T16:20:41.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JWT\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JWT\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:04:30.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241229162600_initial.cs",
+              "DocumentMoniker": "D:\\INTERN\\.Net\\JWT\\JWT\\Migrations\\20241229162600_initial.cs",
+              "RelativeDocumentMoniker": "JWT\\Migrations\\20241229162600_initial.cs",
+              "ToolTip": "D:\\INTERN\\.Net\\JWT\\JWT\\Migrations\\20241229162600_initial.cs",
+              "RelativeToolTip": "JWT\\Migrations\\20241229162600_initial.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:26:01.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

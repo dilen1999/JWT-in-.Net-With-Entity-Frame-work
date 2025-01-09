@@ -42,31 +42,53 @@ namespace JWT.Services
             return await _userManager.CheckPasswordAsync(identityUser, user.Password);
         }
 
+        //public string GenerateTokenString(LoginUser user)
+        //{
+        //    IEnumerable<System.Security.Claims.Claim> claims = new List<Claim>
+        //    {
+        //        new Claim(ClaimTypes.Email, user.UserName),
+        //        //new Claim(ClaimTypes.Role, "Admin")
+        //    };
+
+        //    //var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config.GetSection("Jwt:Key").Value));
+        //    var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+
+
+        //    SigningCredentials signingCred = new SigningCredentials(securityKey,SecurityAlgorithms.HmacSha256Signature);
+        //    var securityToken = new JwtSecurityToken(
+        //        claims: claims,
+        //        expires: DateTime.UtcNow.AddMinutes(60),
+        //        issuer: _config["Jwt: Issuer"],
+        //        audience: _config["Jwt: Audience"],
+        //        signingCredentials: signingCred
+        //        );
+        //    string tokenString = new JwtSecurityTokenHandler().WriteToken(securityToken);
+
+        //    // Log the token (to console or any logging mechanism)
+        //    Console.WriteLine("Generated JWT Token: " + tokenString);
+        //    return tokenString;
+        //}
+
         public string GenerateTokenString(LoginUser user)
         {
-            IEnumerable<System.Security.Claims.Claim> claims = new List<Claim>
+            var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Email, user.UserName),
-                //new Claim(ClaimTypes.Role, "Admin")
             };
 
-            //var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config.GetSection("Jwt:Key").Value));
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+            var signingCred = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
-
-            SigningCredentials signingCred = new SigningCredentials(securityKey,SecurityAlgorithms.HmacSha256Signature);
-            var securityToken = new JwtSecurityToken(
+            var token = new JwtSecurityToken(
+                issuer: _config["Jwt:Issuer"],
+                audience: _config["Jwt:Audience"],
                 claims: claims,
-                expires: DateTime.Now.AddMinutes(60),
-                issuer: _config.GetSection("Jwt: Issuer").Value,
-                audience: _config.GetSection("Jwt: Audience").Value,
+                expires: DateTime.UtcNow.AddMinutes(60),
                 signingCredentials: signingCred
-                );
-            string tokenString = new JwtSecurityTokenHandler().WriteToken(securityToken);
+            );
 
-            // Log the token (to console or any logging mechanism)
-            Console.WriteLine("Generated JWT Token: " + tokenString);
-            return tokenString;
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
+
     }
 }
